@@ -126,7 +126,6 @@ body{
   }
 }
 #css-validator{
-  position: absolute;
-  bottom: 16px;
-  right: 16px;
+  display: flex;
+  justify-content: flex-end;
 }
