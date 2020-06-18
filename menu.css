@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#menu-title{
+    display: block;
+    font-size: 27pt;
+    background-color: khaki;
+}
+#section-container{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(92, 56, 56) ;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.section1{
+    background-color: beige;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 175px;
+    font-size: 30px;
+  }
