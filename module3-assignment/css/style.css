@@ -1,0 +1,49 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: #fcf7dd;
+  font-size: 1em;
+}
+
+#navbartext {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #aebdbe;
+}
+.nav-link {
+  color: rgb(207, 128, 24);
+}
+
+#header {
+  padding: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.75em;
+  font-weight: bolder;
+  text-shadow: 3px 3px 3px #6a8cfa;
+}
+
+#primary-text {
+  color: blueviolet;
+  padding: 0px 5px 0px 0px;
+}
+
+.section {
+  background-color: rgb(239, 231, 247);
+  border: blueviolet solid 2px;
+  margin: 10px 0px 10px 0px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(77, 76, 76);
+  border-style: outset;
+}
+
+.menu-description {
+  padding: 0px 15px 10px 15px;
+}
+
+#css-validator {
+  display: flex;
+  justify-content: flex-end;
+}
